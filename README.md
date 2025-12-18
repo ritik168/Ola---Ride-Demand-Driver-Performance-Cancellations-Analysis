@@ -16,8 +16,11 @@ The objective of this project is to analyze Ola ride data using Python to unders
 ## 🧩 Business Problems Solved
 
 High ride cancellations.
+
 Driver availability issues during peak hours.
+
 Low customer satisfactions in some rides.
+
 Revenue loss due to cancelled rides.
 
 
@@ -60,6 +63,8 @@ Jupyter Notebook
 PowerPoint (PPT report)
 
 GitHub for version control
+
+
 
 ## Project End.
 
